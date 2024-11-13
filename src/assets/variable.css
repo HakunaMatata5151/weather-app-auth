@@ -10,6 +10,11 @@
     --secondary-container-color: #686868;
     --background-color: #eeeeee;
     --border-color: #4d4d4d;
+    --linear-gradient: linear-gradient(
+      90deg,
+      rgb(146, 146, 146) 0%,
+      rgb(204, 204, 204) 100%
+    );
   }
   [theme="custom-dark"] {
     --text-color: #ffffff;
